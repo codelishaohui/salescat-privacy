@@ -1,0 +1,1 @@
+# salescat-privacy
